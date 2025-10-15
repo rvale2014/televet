@@ -1,2 +1,2 @@
 # televet
-Plataforma de Clínica de Televeterinária
+Plataforma para Clínica de Televeterinária
